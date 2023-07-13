@@ -1,0 +1,15 @@
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\bin\Debug\net6.0\Example004_Even.exe
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\bin\Debug\net6.0\Example004_Even.deps.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\bin\Debug\net6.0\Example004_Even.runtimeconfig.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\bin\Debug\net6.0\Example004_Even.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\bin\Debug\net6.0\Example004_Even.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\Example004_Even.csproj.AssemblyReference.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\Example004_Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\Example004_Even.AssemblyInfoInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\Example004_Even.AssemblyInfo.cs
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\Example004_Even.csproj.CoreCompileInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\Example004_Even.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\refint\Example004_Even.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\Example004_Even.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\Example004_Even.genruntimeconfig.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example004_Even\obj\Debug\net6.0\ref\Example004_Even.dll
