@@ -1,0 +1,15 @@
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\bin\Debug\net6.0\Example003_Max.exe
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\bin\Debug\net6.0\Example003_Max.deps.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\bin\Debug\net6.0\Example003_Max.runtimeconfig.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\bin\Debug\net6.0\Example003_Max.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\bin\Debug\net6.0\Example003_Max.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\Example003_Max.csproj.AssemblyReference.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\Example003_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\Example003_Max.AssemblyInfoInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\Example003_Max.AssemblyInfo.cs
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\Example003_Max.csproj.CoreCompileInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\Example003_Max.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\refint\Example003_Max.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\Example003_Max.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\Example003_Max.genruntimeconfig.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example003_Max\obj\Debug\net6.0\ref\Example003_Max.dll
