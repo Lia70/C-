@@ -1,0 +1,15 @@
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\bin\Debug\net6.0\Example002_Compare.exe
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\bin\Debug\net6.0\Example002_Compare.deps.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\bin\Debug\net6.0\Example002_Compare.runtimeconfig.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\bin\Debug\net6.0\Example002_Compare.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\bin\Debug\net6.0\Example002_Compare.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\Example002_Compare.csproj.AssemblyReference.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\Example002_Compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\Example002_Compare.AssemblyInfoInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\Example002_Compare.AssemblyInfo.cs
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\Example002_Compare.csproj.CoreCompileInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\Example002_Compare.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\refint\Example002_Compare.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\Example002_Compare.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\Example002_Compare.genruntimeconfig.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example002_Compare\obj\Debug\net6.0\ref\Example002_Compare.dll
