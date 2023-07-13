@@ -1,0 +1,15 @@
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\bin\Debug\net6.0\Example005_EvenNum.exe
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\bin\Debug\net6.0\Example005_EvenNum.deps.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\bin\Debug\net6.0\Example005_EvenNum.runtimeconfig.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\bin\Debug\net6.0\Example005_EvenNum.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\bin\Debug\net6.0\Example005_EvenNum.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\Example005_EvenNum.csproj.AssemblyReference.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\Example005_EvenNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\Example005_EvenNum.AssemblyInfoInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\Example005_EvenNum.AssemblyInfo.cs
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\Example005_EvenNum.csproj.CoreCompileInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\Example005_EvenNum.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\refint\Example005_EvenNum.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\Example005_EvenNum.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\Example005_EvenNum.genruntimeconfig.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example005_EvenNum\obj\Debug\net6.0\ref\Example005_EvenNum.dll
