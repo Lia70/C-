@@ -29,7 +29,7 @@ bool ValidateNumber(int number)
     return true;
 }
 int number = Prompt ("Введите число > ");
-if (ValidateNumber(number));
+if (ValidateNumber(number))
 {
     Console.WriteLine(GetThirdRank (number));
 }

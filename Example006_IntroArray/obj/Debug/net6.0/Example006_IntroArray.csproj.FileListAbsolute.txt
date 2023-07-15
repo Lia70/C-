@@ -1,0 +1,15 @@
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\bin\Debug\net6.0\Example006_IntroArray.exe
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\bin\Debug\net6.0\Example006_IntroArray.deps.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\bin\Debug\net6.0\Example006_IntroArray.runtimeconfig.json
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\bin\Debug\net6.0\Example006_IntroArray.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\bin\Debug\net6.0\Example006_IntroArray.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\Example006_IntroArray.csproj.AssemblyReference.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\Example006_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\Example006_IntroArray.AssemblyInfoInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\Example006_IntroArray.AssemblyInfo.cs
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\Example006_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\Example006_IntroArray.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\refint\Example006_IntroArray.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\Example006_IntroArray.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\Example006_IntroArray.genruntimeconfig.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C#\Example006_IntroArray\obj\Debug\net6.0\ref\Example006_IntroArray.dll
